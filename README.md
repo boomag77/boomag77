@@ -5,7 +5,7 @@
 ### :man_technologist: About me:
 
 Software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"><br/>
-After a successful 20+ year career, I had to make a career transition, and I am eager to apply my extensive experience and knowledge to contribute to your team's success and values.
+After a successful 10+ year career, I had to make a career transition, and I am eager to apply my extensive experience and knowledge to contribute to your team's success and values.
 
  :telescope: Passionate about professional self-education.<br/>
  :seedling: Highly motivated.<br/>
