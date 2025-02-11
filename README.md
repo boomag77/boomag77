@@ -1,22 +1,46 @@
-### Hi there 👋  My Name Is Sergey!
+### Hi there 👋 My Name is Sergey!
 
 ---
 
-### :man_technologist: About me:
+### 👨‍💻 About Me:
+🚀 **Senior iOS Engineer** with **10+ years of experience** in software development.  
+💡 Passionate about **iOS development (Swift, UIKit, SwiftUI), mobile architectures, and performance optimization**.  
+📱 Experienced in **building scalable and high-performance applications**, integrating **REST & GraphQL APIs**, and working with **CoreData, AVFoundation**.  
+🌱 Always learning and exploring new technologies in **Swift, backend integrations, and CI/CD automation**.  
 
-Software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"><br/>
-After a successful 10+ year career, I had to make a career transition, and I am eager to apply my extensive experience and knowledge to contribute to your team's success and values.
+---
 
- :telescope: Passionate about professional self-education.<br/>
- :seedling: Highly motivated.<br/>
- :zap: Hard worker.<br/>
+### 💻 Languages & Technologies:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="swift" alt="swift" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" title="objective-c" alt="objective-c" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>
+</div>
 
-:mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-boomag-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/boomag) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:s.burdakov@gmail.com)
+---
+
+### 🛠 Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="firebase" alt="firebase" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+</div>
+
+---
+
+### 🔥 Featured Project:
+🚀 **[AutopilotGPTPRO](https://github.com/boomag77/AutopilotGPTPRO)** – iOS-приложение с AI-интеграцией и WebSocket  
+
+---
+
+### 📚 What I'm Currently Learning:
+- ☕ Java  
+- 🦀 Rust  
 
 ---
 
 ### 🤝 Socials:
-
   <div id="badges">
     <a href="https://www.linkedin.com/in/sburdakov/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
@@ -28,34 +52,5 @@ After a successful 10+ year career, I had to make a career transition, and I am 
 
 ---
 
-### 💻 Languages:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="swift" alt="swift" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>
-</div>
-
----
-
-### 🛠 Tools:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="aftereffects" alt="aftereffects" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
-  
-</div>
-
----
----
-
 ### ⚙️ LeetCode stats:
-
 ![Leetcode Stats](https://leetcard.jacoblin.cool/buserg?ext=activity)
-
-
