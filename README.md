@@ -36,7 +36,8 @@
 
 ### 📚 What I'm Currently Learning:
 - ☕ Java  
-- 🦀 Rust  
+- 🦀 Rust
+- 🐹 Go
 
 ---
 
