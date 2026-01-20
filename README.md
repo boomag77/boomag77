@@ -34,7 +34,7 @@
 ---
 
 ### 🔥 Featured Project:
-🚀 **[AutopilotGPTPRO](https://github.com/boomag77/AutopilotGPTPRO)** – iOS-приложение с AI-интеграцией и WebSocket  
+🚀 **[AutopilotGPTPRO](https://github.com/boomag77/AutopilotGPTPRO)** – iOS-application с AI-integration and WebSocket  
 
 ---
 
