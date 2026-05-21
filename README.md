@@ -8,7 +8,7 @@
 
 💡 Passionate about **software architecture, backend and mobile systems, performance optimization, and automation**.
 
-📱 Experienced with **Swift, REST and GraphQL APIs, Core Data, AVFoundation, backend integrations, and CI/CD workflows**.
+📱 Experienced with **.NET, Go, Swift, REST and GraphQL APIs, Core Data, AVFoundation, backend integrations, and CI/CD workflows**.
 
 🧠 I enjoy exploring programming languages, their paradigms, and how different ecosystems connect.
 
