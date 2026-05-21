@@ -2,11 +2,15 @@
 
 ---
 
-### 👨‍💻 About Me:
-🚀 **Senior Fullstack Engineer** with **10+ years of experience** in software development.  
-💡 Passionate about any kind of development, server and mobile architectures, performance optimization. I love programming languages and to find how they are related between each other.
-📱 Experienced in **building scalable and high-performance applications and services**, integrating **REST & GraphQL APIs**, and working with **CoreData, AVFoundation**.  
-🌱 Always learning and exploring new technologies in **Swift, backend integrations, and CI/CD automation**.  
+### 👨‍💻 About Me
+
+🚀 **Senior Full-Stack Engineer** with **10+ years of experience** building scalable, high-performance applications and services.
+
+💡 Passionate about **software architecture, backend and mobile systems, performance optimization, and automation**.
+
+📱 Experienced with **Swift, REST and GraphQL APIs, Core Data, AVFoundation, backend integrations, and CI/CD workflows**.
+
+🧠 I enjoy exploring programming languages, their paradigms, and how different ecosystems connect.
 
 ---
 
